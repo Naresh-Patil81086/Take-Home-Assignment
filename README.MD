@@ -1,3 +1,13 @@
+# Take-Home-Assignment
+
+
+Below are the resources that supported:
+Terraform module which creates VPC,Security group,APPlication load balancer Auto scaling, Cloudwatch alert, SNS notification on AWS.
+
+# Usage/example
+
+# example input are explain in main.tf file 
+
 It must include a VPC which enables future growth / scale--------Completed
 
 It must include both a public and private subnet – where the private subnet is used for compute and the public is used for the load balancers---------------------------Completed
