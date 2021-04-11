@@ -6,7 +6,7 @@ Terraform module which creates VPC,Security group,APPlication load balancer Auto
 
 # Usage/example
 
-# example input are explain in main.tf file 
+# Example input are explain in main.tf file 
 
 It must include a VPC which enables future growth / scale--------Completed
 
